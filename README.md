@@ -1,10 +1,5 @@
 # Alison Barbosa  
 
-## Sobre mim  
-
-Sou desenvolvedor front-end com foco em **Next.js**, **React** e **TypeScript**.
-Atualmente curso **Sistemas de Informação** na **Unifacisa** e estou expandindo minhas habilidades para back-end, com objetivo de atuar como **desenvolvedor full stack**.
-
 ## Tecnologias e Ferramentas  
 
 <div align="left">
