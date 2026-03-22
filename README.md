@@ -1,16 +1,54 @@
-## Hi there 👋
+# Alison Barbosa
 
-<!--
-**aalisonbarbosa/aalisonbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack com foco em backend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+### 🖥️ Front-end
+
+<details>
+<summary>Clique para ver</summary>
+
+<br>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,sass" />
+</p>
+
+</details>
+
+---
+
+### ⚙️ Back-end
+
+<details>
+<summary>Clique para ver</summary>
+
+<br>
+
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=nodejs,java,postgres,mysql" />
+  <img src="https://cdn.simpleicons.org/fastify/000000" height="48" />
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="48" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="48" />
+</p>
+
+</details>
+
+---
+
+### 🧪 Testes & Ferramentas
+
+<details>
+<summary>Clique para ver</summary>
+
+<br>
+
+<p align="left">
+   <img src="https://skillicons.dev/icons?i=jest,git,github" />
+   <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48" />
+</p>
+
+</details>
